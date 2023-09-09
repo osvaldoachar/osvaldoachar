@@ -24,6 +24,6 @@
  </div><br>
  <br>
 
- - Sou apaixonado por tecnologia e amo aprender sobre tecnologia no geral !!!
+ - Sou apaixonado por programação e amo aprender sobre tecnologia no geral !!!
 
  ## Meu e-mail: osvaldofelisberto40@gmail.com
